@@ -50,7 +50,7 @@
           <div class="cell medium-9">
               <h3>Project Title</h3>
               <em>Institution Name</em>
-              <p>Project Description. Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro adipisci, unde veniam nulla asperiores explicabo exercitationem alias nihil sapiente eveniet quod impedit a, id placeat aperiam sint, ratione qui obcaecati? <a href="item.php">More about this project&rarr;</a></p>
+              <p>Project Description. Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro adipisci, unde veniam nulla asperiores explicabo exercitationem alias nihil sapiente eveniet quod impedit a, id placeat aperiam sint, ratione qui obcaecati? <a href="project-item.php">More about this project&rarr;</a></p>
               <ul class="left">
                   <li>Categorical focus | </li>
                   <li>Geographical focus | </li>
@@ -68,7 +68,7 @@
           <div class="cell medium-9">
               <h3>Project Title</h3>
               <em>Institution Name</em>
-              <p>Project Description. Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro adipisci, unde veniam nulla asperiores explicabo exercitationem alias nihil sapiente eveniet quod impedit a, id placeat aperiam sint, ratione qui obcaecati? <a href="item.php">More about this project&rarr;</a></p>
+              <p>Project Description. Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro adipisci, unde veniam nulla asperiores explicabo exercitationem alias nihil sapiente eveniet quod impedit a, id placeat aperiam sint, ratione qui obcaecati? <a href="project-item.php">More about this project&rarr;</a></p>
               <ul class="left">
                   <li>Categorical focus | </li>
                   <li>Geographical focus | </li>
