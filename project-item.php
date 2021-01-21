@@ -13,14 +13,15 @@
               <p>Item Description. Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro adipisci, unde veniam nulla asperiores explicabo exercitationem alias nihil sapiente eveniet quod impedit a, id placeat aperiam sint, ratione qui obcaecati.</p>
               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro adipisci, unde veniam nulla asperiores explicabo exercitationem alias nihil sapiente eveniet quod impedit a, id placeat aperiam sint, ratione qui obcaecati.</p>
 
-              <h3>Item Metadata</h3>
-              <p><em>Metadata Label:</em> Metadata dolor sit amet consectetur adipisicing elit.</p>
-              <p><em>Metadata Label:</em> Metadata dolor sit amet consectetur adipisicing elit.</p>
-              <p><em>Metadata Label:</em> Metadata dolor sit amet consectetur adipisicing elit.</p>
-              <p><em>Metadata Label:</em> Metadata dolor sit amet consectetur adipisicing elit.</p>
-              <p><em>Metadata Label:</em> Metadata dolor sit amet consectetur adipisicing elit.</p>
-              <p><em>Metadata Label:</em> Metadata dolor sit amet consectetur adipisicing elit.</p>
-              </div>
+              <em>Institution Name</em>
+              
+              <ul class="left">
+                  <li>Categorical focus | </li>
+                  <li>Geographical focus | </li>
+                  <li>Material | </li>
+                  <li>Acrcrual method</li>
+              </ul>
+              <a href="project-home.php" class="button">Contribute to this project!</a>
 
           <div class="medium-12">
               <hr>
